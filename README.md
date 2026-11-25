@@ -1,6 +1,6 @@
-# Installer Return Codes for System-Cleaner-for-Windows
+# Installer Return Codes for Cleaner Expert
 
-This document provides the standard installer exit (return) codes for the **System-Cleaner-for-Windows** application. The installer was built using Inno Setup.
+This document provides the standard installer exit (return) codes for the **Cleaner Expert** application. The installer was built using Inno Setup.
 
 To align with Microsoft Store submission requirements for unique return codes per scenario, the following standard Inno Setup error codes have been mapped to specific failure conditions:
 
