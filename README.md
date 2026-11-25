@@ -1,6 +1,5 @@
-# Installer Return Codes for Cleaner Expert
-
-This document provides the standard installer exit (return) codes for the **Cleaner Expert** application. The installer was built using Inno Setup.
+# Installer Return Codes for Go Cleaner
+This document provides the standard installer exit (return) codes for the **Go Cleaner** application. The installer was built using Inno Setup.
 
 To align with Microsoft Store submission requirements for unique return codes per scenario, the following standard Inno Setup error codes have been mapped to specific failure conditions:
 
